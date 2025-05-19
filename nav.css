@@ -1,0 +1,25 @@
+.container-fluid{
+    height: 70px;
+
+}
+
+
+#navbarNav{
+    background-color: lightblue;
+    justify-content: center;
+    width: 300px;
+    border-radius: 30px;
+    
+   
+
+}
+
+.nav-item {
+
+}
+.nav-link {
+    color: black;
+    font-weight: bold;
+
+
+}
